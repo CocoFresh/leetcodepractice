@@ -1,6 +1,7 @@
 package com.example.demo;
 
 import com.example.demo.practice.*;
+import com.example.demo.practice.common.TreeNode;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,11 +12,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo14 test;
+    Demo18 test;
+
 
     @Test
     public void contextLoads() {
-        test.hammingDistance(1, 4);
+        System.out.println(test.findComplement(5));
     }
 
 }
