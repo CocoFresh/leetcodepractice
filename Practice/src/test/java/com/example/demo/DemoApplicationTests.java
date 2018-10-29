@@ -12,12 +12,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo18 test;
+    Demo26 test;
 
 
     @Test
     public void contextLoads() {
-        System.out.println(test.findComplement(5));
+        test.findKthLargest(new int[]{0}, 1);
     }
 
 }
