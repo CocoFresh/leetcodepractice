@@ -12,12 +12,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo26 test;
+    Demo32 test;
 
 
     @Test
     public void contextLoads() {
-        test.findKthLargest(new int[]{0}, 1);
+        test.minSubArrayLen(11, new int[]{1, 2, 3, 4, 5});
     }
 
 }
