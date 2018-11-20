@@ -12,12 +12,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo32 test;
+    Demo33 test;
 
 
     @Test
     public void contextLoads() {
-        test.minSubArrayLen(11, new int[]{1, 2, 3, 4, 5});
+        test.threeSum(new int[]{0,3,0,1,1,-1,-5,-5,3,-3,-3,0});
     }
 
 }
