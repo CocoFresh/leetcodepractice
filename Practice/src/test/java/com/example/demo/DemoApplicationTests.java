@@ -12,12 +12,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo33 test;
+    Demo52 test;
 
 
     @Test
     public void contextLoads() {
-        test.threeSum(new int[]{0,3,0,1,1,-1,-5,-5,3,-3,-3,0});
+        System.out.println(test.firstUniqChar(""));
+
     }
 
 }
