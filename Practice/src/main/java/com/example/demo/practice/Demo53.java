@@ -36,12 +36,13 @@ public class Demo53 {
                 p1.next = q;
                 q = q.next;
             }
+            p1 = p1.next;
         }
         if (p != null) {
             p1.next = p;
         } else if (q != null) {
             p1.next = q;
         }
-        return p1;
+        return head;
     }
 }

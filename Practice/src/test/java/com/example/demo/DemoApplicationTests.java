@@ -12,12 +12,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo52 test;
+    Demo55 test;
 
 
     @Test
     public void contextLoads() {
-        System.out.println(test.firstUniqChar(""));
+        System.out.println(test.strStr("mississippi","issipi"));
 
     }
 
