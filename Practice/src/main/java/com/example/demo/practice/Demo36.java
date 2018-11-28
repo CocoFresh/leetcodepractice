@@ -1,5 +1,7 @@
 package com.example.demo.practice;
 
+import com.example.demo.practice.common.TreeNode;
+
 import java.util.*;
 
 /**
@@ -9,15 +11,7 @@ import java.util.*;
  * @date 2018/11/12.
  */
 public class Demo36 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
 
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> l = new ArrayList<>();

@@ -1,5 +1,7 @@
 package com.example.demo.practice;
 
+import com.example.demo.practice.common.TreeNode;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
@@ -11,15 +13,7 @@ import java.util.Queue;
  * @date 2018/11/3.
  */
 public class Demo35 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
 
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     public boolean isSymmetric(TreeNode root) {
         if (root == null) {

@@ -12,13 +12,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo55 test;
+    Demo61 test;
 
 
     @Test
     public void contextLoads() {
-        System.out.println(test.strStr("mississippi","issipi"));
 
+        System.out.println(test.letterCombinations("23"));
     }
 
 }

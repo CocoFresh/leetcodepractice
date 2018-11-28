@@ -1,5 +1,7 @@
 package com.example.demo.practice;
 
+import com.example.demo.practice.common.TreeNode;
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -10,15 +12,7 @@ import java.util.List;
  * @date 2018/11/3.
  */
 public class Demo34 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
 
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     public boolean isValidBST(TreeNode root) {
         if (root == null) {

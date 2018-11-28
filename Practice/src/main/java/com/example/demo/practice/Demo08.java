@@ -1,5 +1,6 @@
 package com.example.demo.practice;
 
+import com.example.demo.practice.common.ListNode;
 import org.springframework.stereotype.Component;
 
 /**
@@ -8,15 +9,6 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class Demo08 {
-    public static class ListNode {
-        public int val;
-        public ListNode next;
-
-        public ListNode(int x) {
-            val = x;
-        }
-    }
-
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 //        ListNode Head = l1;
 //        int temp = 0, total = 0;
