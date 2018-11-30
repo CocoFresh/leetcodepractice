@@ -12,13 +12,19 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo61 test;
+    Demo64 test;
 
 
     @Test
     public void contextLoads() {
-
-        System.out.println(test.letterCombinations("23"));
+        TreeNode p = new TreeNode(1);
+        p.left = new TreeNode(9);
+        p.right = new TreeNode(2);
+        p.left.left = new TreeNode(8);
+        p.left.right = new TreeNode(10);
+        String s = test.serialize(null);
+        TreeNode root = test.deserialize(s);
+        System.out.println(s);
     }
 
 }
