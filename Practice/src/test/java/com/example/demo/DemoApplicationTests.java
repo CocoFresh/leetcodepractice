@@ -12,21 +12,31 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo76 test;
+    Demo79 test;
 
 
     @Test
     public void contextLoads() {
-        test.spiralOrder(new int[][]{
-                {3},
-                {6}
-        });
+        char board[][] = {
+//                {'o', 'a', 'a', 'n'},
+//                {'e', 't', 'a', 'e'},
+//                {'i', 'h', 'k', 'r'},
+//                {'i', 'f', 'l', 'v'}
+                {'a'}
+        };
+        String[] words = {
+//                "oath", "pea", "eat", "rain"
+                "a", "a"
+        };
+
+        test.findWords(board, words);
     }
 
 }
