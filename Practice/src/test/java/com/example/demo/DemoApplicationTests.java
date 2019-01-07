@@ -19,24 +19,22 @@ import java.util.List;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    Demo79 test;
+    Demo86 test;
 
 
     @Test
     public void contextLoads() {
-        char board[][] = {
-//                {'o', 'a', 'a', 'n'},
-//                {'e', 't', 'a', 'e'},
-//                {'i', 'h', 'k', 'r'},
-//                {'i', 'f', 'l', 'v'}
-                {'a'}
-        };
-        String[] words = {
-//                "oath", "pea", "eat", "rain"
-                "a", "a"
-        };
-
-        test.findWords(board, words);
+        TreeNode root = new TreeNode(3);
+        TreeNode left = new TreeNode(5);
+        TreeNode right = new TreeNode(1);
+        left.left = new TreeNode(6);
+        left.right = new TreeNode(2);
+        right.left = new TreeNode(0);
+        right.right = new TreeNode(8);
+        left.right.left = new TreeNode(7);
+        left.right.right = new TreeNode(4);
+        root.left = left;
+        root.right = right;
+        System.out.println(test.maxPathSum(new TreeNode(-3)));
     }
-
 }
