@@ -1,6 +1,6 @@
 package com.example.demo;
 
-import com.example.demo.practice.second.PicLoader;
+import com.example.demo.practice.second.*;
 import com.lowagie.text.DocumentException;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,15 +14,20 @@ import java.io.IOException;
 @SpringBootTest
 public class DemoApplicationTests {
     @Autowired
-    PicLoader test;
+    Solution_825 test;
 
 
     @Test
-    public void picConvert() throws IOException, DocumentException {
-        String path = "D:\\PIC";
-        String outPath = "D:\\Demo\\";
-        test.getFileList(path, outPath);
+    public void testReverseWords() {
+        int[] nums = {98, 60, 24, 89, 84, 51, 61, 96, 108, 87, 68, 29, 14, 11, 13, 50, 13, 104, 57, 8, 57, 111, 92, 87, 9, 59, 65, 116, 56, 39, 55, 11, 21, 105, 57, 36, 48, 93, 20, 94, 35, 68, 64, 41, 37, 11, 50, 47, 8, 9};
+        System.out.println(test.numFriendRequests(nums));
     }
+//    @Test
+//    public void picConvert() throws IOException, DocumentException {
+//        String path = "D:\\PIC";
+//        String outPath = "D:\\Demo\\";
+//        test.getFileList(path, outPath);
+//    }
 
 //    @Test
 //    public void contextLoads() {
