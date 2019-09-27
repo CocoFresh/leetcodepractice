@@ -1,7 +1,11 @@
 package com.example.demo;
 
+import com.example.demo.DataStucture.Tree.BuildBinaryTree2;
+import com.example.demo.DataStucture.Tree.PathSum;
+import com.example.demo.practice.common.TreeNode;
 import com.example.demo.practice.second.*;
 import com.lowagie.text.DocumentException;
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,11 +20,34 @@ public class DemoApplicationTests {
     @Autowired
     Solution_825 test;
 
+    @Autowired
+    PathSum pathSum;
+
+    @Autowired
+    BuildBinaryTree2 buildBinaryTree2;
+
+    @Test
+    public void testPathSum() {
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(-2);
+        root.right = new TreeNode(3);
+//        root.left.left = new TreeNode(11);
+//        root.left.left.left = new TreeNode(7);
+//        root.left.left.right = new TreeNode(2);
+        Assert.assertTrue(pathSum.hasPathSum(root, -1));
+    }
+
+    @Test
+    public void buildTree() {
+        int[] preorder = new int[]{3, 9, 20, 15, 7};
+        int[] inorder = new int[]{9, 3, 15, 20, 7};
+        buildBinaryTree2.buildTree(preorder, inorder);
+    }
+
 
     @Test
     public void testReverseWords() {
-        int[] nums = {98, 60, 24, 89, 84, 51, 61, 96, 108, 87, 68, 29, 14, 11, 13, 50, 13, 104, 57, 8, 57, 111, 92, 87, 9, 59, 65, 116, 56, 39, 55, 11, 21, 105, 57, 36, 48, 93, 20, 94, 35, 68, 64, 41, 37, 11, 50, 47, 8, 9};
-        System.out.println(test.numFriendRequests(nums));
+
     }
 //    @Test
 //    public void picConvert() throws IOException, DocumentException {
