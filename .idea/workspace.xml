@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bf2f029-2b64-40b7-9132-be45ac8c289d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/BuildBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/BuildBinaryTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itext_asian_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xhtmlrenderer_core_renderer_R8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/dynamic/Regular_expression_matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/string/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/difficul/string/Regular_expression_matching_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/array/ThreeSumTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
     </list>
@@ -34,7 +42,113 @@
     <option name="myElementSize" value="275" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/difficul/string/Regular_expression_matching_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/dynamic/Regular_expression_matching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1066">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="755">
+              <caret line="56" column="19" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="56" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/array/ThreeSumTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/MyCalendarTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1352">
+              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_151.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,8 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/Demo20.java" />
-        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/Demo53.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/Demo54.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/Demo55.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/Demo56.java" />
@@ -103,9 +215,15 @@
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/MyCircularQueue.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/PathSum.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/BuildBinaryTree.java" />
-        <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/BuildBinaryTree2.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
+        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/string/Palindrome.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/string/Regular_expression_matching.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/difficul/string/Regular_expression_matching_test.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/array/ThreeSumTests.java" />
+        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/dynamic/Regular_expression_matching.java" />
       </list>
     </option>
   </component>
@@ -137,11 +255,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="482" />
-    <option name="y" value="28" />
-    <option name="width" value="1193" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -169,8 +285,8 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,13 +294,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539572319046" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GithubProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyProject/Vue" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo.difficult.dynamic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DemoApplicationTests.buildTree">
+  <component name="RunManager" selected="JUnit.ThreeSumTests.test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -207,21 +328,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -260,7 +366,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplicationTests.picConvert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoApplicationTests.testPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -270,7 +376,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo" />
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
-      <option name="METHOD_NAME" value="picConvert" />
+      <option name="METHOD_NAME" value="testPalindrome" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -294,17 +400,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplicationTests.testReverseWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Regular_expression_matching_test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.demo.difficul.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
-      <option name="METHOD_NAME" value="testReverseWords" />
+      <option name="PACKAGE_NAME" value="com.example.demo.difficul.string" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.difficul.string.Regular_expression_matching_test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSumTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.medium.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.medium.array" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.medium.array.ThreeSumTests" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -343,20 +466,20 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.DemoApplicationTests" />
-      <item itemvalue="JUnit.DemoApplicationTests.picConvert" />
-      <item itemvalue="JUnit.DemoApplicationTests.testReverseWords" />
       <item itemvalue="JUnit.DemoApplicationTests.testPathSum" />
       <item itemvalue="JUnit.DemoApplicationTests.buildTree" />
+      <item itemvalue="JUnit.DemoApplicationTests.testPalindrome" />
+      <item itemvalue="JUnit.Regular_expression_matching_test.test" />
       <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="JUnit.ThreeSumTests.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThreeSumTests.test" />
+        <item itemvalue="JUnit.Regular_expression_matching_test.test" />
+        <item itemvalue="JUnit.DemoApplicationTests.testPalindrome" />
         <item itemvalue="JUnit.DemoApplicationTests.buildTree" />
         <item itemvalue="JUnit.DemoApplicationTests.testPathSum" />
-        <item itemvalue="JUnit.DemoApplicationTests.testReverseWords" />
-        <item itemvalue="JUnit.DemoApplicationTests.picConvert" />
-        <item itemvalue="JUnit.DemoApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +540,12 @@
       <workItem from="1568961734164" duration="33000" />
       <workItem from="1569390558664" duration="564000" />
       <workItem from="1569468968813" duration="1214000" />
-      <workItem from="1569550392874" duration="743000" />
+      <workItem from="1569550392874" duration="2609000" />
+      <workItem from="1570501403302" duration="624000" />
+      <workItem from="1574748952900" duration="1546000" />
+      <workItem from="1574818204222" duration="13964000" />
+      <workItem from="1574921051604" duration="1498000" />
+      <workItem from="1574995234912" duration="3559000" />
     </task>
     <task id="LOCAL-00001" summary="update1.0">
       <created>1539571756854</created>
@@ -482,48 +610,55 @@
       <option name="project" value="LOCAL" />
       <updated>1567677019209</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="新增数据结构，二叉树">
+      <created>1569555797888</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569555797888</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DemoApplicationTests_testPathSum - 2019.09.16 at 09h 54m 40s.xml">
-      <configuration name="DemoApplicationTests.testPathSum" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 10h 39m 07s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_testPathSum - 2019.09.16 at 09h 57m 37s.xml">
-      <configuration name="DemoApplicationTests.testPathSum" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 11h 07m 53s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_testPathSum - 2019.09.16 at 09h 59m 00s.xml">
-      <configuration name="DemoApplicationTests.testPathSum" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 11h 10m 51s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_testPathSum - 2019.09.16 at 10h 00m 08s.xml">
-      <configuration name="DemoApplicationTests.testPathSum" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 11h 35m 07s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_testPathSum - 2019.09.16 at 10h 01m 31s.xml">
-      <configuration name="DemoApplicationTests.testPathSum" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 11h 36m 19s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_testPathSum - 2019.09.16 at 10h 02m 01s.xml">
-      <configuration name="DemoApplicationTests.testPathSum" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 13h 49m 27s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_testPathSum - 2019.09.16 at 10h 02m 32s.xml">
-      <configuration name="DemoApplicationTests.testPathSum" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 15h 04m 28s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_buildTree - 2019.09.18 at 17h 21m 10s.xml">
-      <configuration name="DemoApplicationTests.buildTree" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 15h 11m 15s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_buildTree - 2019.09.18 at 17h 32m 52s.xml">
-      <configuration name="DemoApplicationTests.buildTree" configurationId="JUnit" />
+    <history-entry file="Regular_expression_matching_test_test - 2019.11.27 at 15h 57m 01s.xml">
+      <configuration name="Regular_expression_matching_test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoApplicationTests_buildTree - 2019.09.18 at 17h 34m 57s.xml">
-      <configuration name="DemoApplicationTests.buildTree" configurationId="JUnit" />
+    <history-entry file="ThreeSumTests_test - 2019.11.29 at 11h 02m 32s.xml">
+      <configuration name="ThreeSumTests.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238602000" />
+    <option name="totallyTimeSpent" value="261659000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39527026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -536,7 +671,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.4453125" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3705357" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.390625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -627,7 +762,8 @@
     <MESSAGE value="new" />
     <MESSAGE value="19.7.18" />
     <MESSAGE value="19.9.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="19.9.5" />
+    <MESSAGE value="新增数据结构，二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增数据结构，二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,7 +782,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java</url>
-          <line>60</line>
+          <line>67</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
@@ -658,7 +794,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java</url>
-          <line>55</line>
+          <line>62</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -742,7 +878,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java</url>
-          <line>36</line>
+          <line>37</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
@@ -764,6 +900,20 @@
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/ThreeSum.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/dynamic/Regular_expression_matching.java</url>
+          <line>9</line>
+          <properties class="com.example.demo.difficult.dynamic.Regular_expression_matching" method="isMatch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -777,77 +927,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/first/Demo10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/zjtd/Num_1.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/lowagie/itext/2.0.8/itext-2.0.8.jar!/com/lowagie/text/pdf/PdfWriter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="194" column="28" selection-start-line="194" selection-start-column="28" selection-end-line="194" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1430">
           <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_151.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/MyCalendarTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1378">
-          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1069,24 +1152,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/MyCircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#1734#1735#0" expanded="true" />
-            <element signature="e#1777#1778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -1109,16 +1174,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1118">
-          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/common/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1157,6 +1212,119 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/MyCircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1195">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#1734#1735#0" expanded="true" />
+            <element signature="e#1777#1778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/string/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/MyCalendarTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1352">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_151.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/DemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/difficul/string/Regular_expression_matching_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/array/ThreeSumTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="56" column="19" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/dynamic/Regular_expression_matching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -2,6 +2,7 @@ package com.example.demo;
 
 import com.example.demo.DataStucture.Tree.BuildBinaryTree2;
 import com.example.demo.DataStucture.Tree.PathSum;
+import com.example.demo.easy.string.Palindrome;
 import com.example.demo.practice.common.TreeNode;
 import com.example.demo.practice.second.*;
 import com.lowagie.text.DocumentException;
@@ -44,6 +45,12 @@ public class DemoApplicationTests {
         buildBinaryTree2.buildTree(preorder, inorder);
     }
 
+    //回文数测试
+    @Test
+    public void testPalindrome() {
+        Palindrome palindrome = new Palindrome();
+        Assert.assertTrue(palindrome.isPalindrome(121));
+    }
 
     @Test
     public void testReverseWords() {
