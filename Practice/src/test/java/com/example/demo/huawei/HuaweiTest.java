@@ -5,6 +5,9 @@ import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @Auther: xintao.feng
  * @Date: 2020/1/3 13:33
@@ -22,6 +25,43 @@ public class HuaweiTest {
     @Test
     public void expressionTest() {
         ExpressionEvaluation e = new ExpressionEvaluation();
-        e.expressionEvaluation("2*(9+6/3-5)+4");
+        System.out.println(e.expressionEvaluation("2*(3+4)"));
+    }
+
+    @Test
+    public void lastWordLengthTest() {
+        TheLastWordLength t = new TheLastWordLength();
+        System.out.println(t.lastWordLength("hello world"));
+    }
+
+    @Test
+    public void randomNumberTest() {
+        RandomNumber r = new RandomNumber();
+        List<Integer> list = new ArrayList<>();
+        list.add(10);
+        list.add(20);
+        list.add(40);
+        list.add(32);
+        list.add(67);
+        list.add(40);
+        list.add(20);
+        list.add(89);
+        list.add(300);
+        list.add(400);
+        list.add(15);
+
+        r.randomNumber(list);
+    }
+
+    @Test
+    public void hexadecimalToDecimalTest() {
+        HexadecimalToDecimal h = new HexadecimalToDecimal();
+        h.hexadecimalToDecimal("0x76E");
+    }
+
+    @Test
+    public void primeFactorsTest() {
+        PrimeFactors p = new PrimeFactors();
+        p.getPrimeFactors(180);
     }
 }

@@ -1,9 +1,10 @@
 package com.example.demo.huawei;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
-import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * @Auther: xintao.feng
@@ -13,21 +14,21 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class ExpressionEvaluation {
 
     public int expressionEvaluation(String expression) {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
         Queue<String> queue = new LinkedList<>();
         Stack<Character> stack = new Stack<>();
-        int position = 0;
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < expression.length(); i++) {
             char c = expression.charAt(i);
-            if (c >= '0' && c <= '9' && i != expression.length() - 1) {
+            if (c >= '0' && c <= '9') {
+                sb.append(expression.charAt(i));
                 continue;
             }
-            if (i == expression.length() - 1) {
-                queue.offer(expression.substring(position, i + 1));
-                break;
-            } else {
-                queue.offer(expression.substring(position, i));
+            if (sb.length() != 0) {
+                queue.offer(sb.toString());
+                sb.delete(0, sb.length());
             }
-            position = i;
             char currentChar = expression.charAt(i);
             if (stack.empty()) {
                 stack.push(currentChar);
@@ -56,10 +57,46 @@ public class ExpressionEvaluation {
                 }
             }
         }
+        if (sb.length() != 0) {
+            queue.offer(sb.toString());
+            sb.delete(0, sb.length());
+        }
         while (!stack.empty()) {
             queue.offer(String.valueOf(stack.pop()));
         }
-        return 0;
+        Stack<Integer> result = new Stack<>();
+        for (String s : queue) {
+            if (notNumber(s)) {
+                int right = result.pop();
+                int left = result.pop();
+                result.push(compute(left, right, s));
+            } else {
+                result.push(Integer.valueOf(s));
+            }
+        }
+        return result.peek();
+    }
+
+    private int compute(int left, int right, String s) {
+        if (s.equals("+")) {
+            return left + right;
+        } else if (s.equals("-")) {
+            return left - right;
+        } else if (s.equals("*")) {
+            return left * right;
+        } else {
+            return left / right;
+        }
+    }
+
+    private boolean notNumber(String s) {
+        if (s.equalsIgnoreCase("/") ||
+                s.equalsIgnoreCase("+") ||
+                s.equalsIgnoreCase("-") ||
+                s.equalsIgnoreCase("*")) {
+            return true;
+        }
+        return false;
     }
 
     private boolean compare(char currentChar, Character peek) {
