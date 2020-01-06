@@ -64,4 +64,16 @@ public class HuaweiTest {
         PrimeFactors p = new PrimeFactors();
         p.getPrimeFactors(180);
     }
+
+    @Test
+    public void getApproximationTest() {
+        Approximation a = new Approximation();
+        a.getApproximation(5.5);
+    }
+
+    @Test
+    public void nonrepeatingIntegersTest(){
+        NonrepeatingIntegers n = new NonrepeatingIntegers();
+        n.getNonrepeatingIntegers(9876673);
+    }
 }
