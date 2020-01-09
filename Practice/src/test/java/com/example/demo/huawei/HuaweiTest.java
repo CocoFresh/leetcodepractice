@@ -2,6 +2,7 @@ package com.example.demo.huawei;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.mockito.internal.matchers.Find;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
@@ -62,7 +63,7 @@ public class HuaweiTest {
     @Test
     public void primeFactorsTest() {
         PrimeFactors p = new PrimeFactors();
-        p.getPrimeFactors(180);
+        p.getPrimeFactors(108);
     }
 
     @Test
@@ -72,8 +73,20 @@ public class HuaweiTest {
     }
 
     @Test
-    public void nonrepeatingIntegersTest(){
+    public void nonrepeatingIntegersTest() {
         NonrepeatingIntegers n = new NonrepeatingIntegers();
         n.getNonrepeatingIntegers(9876673);
+    }
+
+    @Test
+    public void findSeven() {
+        FindSeven f = new FindSeven();
+        System.out.println(f.findSeven(15929));
+    }
+
+    @Test
+    public void addTest() {
+        Add a = new Add();
+        System.out.println(a.add("-9876543210", "-1234567890"));
     }
 }

@@ -14,8 +14,6 @@ import java.util.Stack;
 public class ExpressionEvaluation {
 
     public int expressionEvaluation(String expression) {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         Queue<String> queue = new LinkedList<>();
         Stack<Character> stack = new Stack<>();
         StringBuilder sb = new StringBuilder();
