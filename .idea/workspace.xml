@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bf2f029-2b64-40b7-9132-be45ac8c289d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/FindSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/ExpressionEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/ExpressionEvaluation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/huawei/HuaweiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/huawei/HuaweiTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Practice/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,33 +45,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/huawei/HuaweiTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/ExpressionEvaluation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="364">
               <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Approximation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="260">
               <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
             </state>
           </provider>
@@ -97,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/HexadecimalToDecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="260">
               <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
@@ -106,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/MergeTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
+            <state relative-caret-position="572">
               <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
@@ -115,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/NonrepeatingIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state relative-caret-position="546">
+              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,8 +107,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="255">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar!/com/google/common/collect/ImmutableList.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="181" selection-start-line="181" selection-end-line="181" />
+              <folding>
+                <element signature="e#6313#6314#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -136,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/CalculateTheNumberOfCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="468">
               <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -178,7 +182,6 @@
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_03.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/zjtd/num_1.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/zjtd/Num_1.java" />
-        <option value="$PROJECT_DIR$/Practice/pom.xml" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/PicLoader.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/MyCalendarTwo.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/second/Solution_151.java" />
@@ -219,8 +222,9 @@
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/FindSeven.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Add.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Main.java" />
-        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/huawei/HuaweiTest.java" />
+        <option value="$PROJECT_DIR$/Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java" />
       </list>
     </option>
   </component>
@@ -281,18 +285,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -307,7 +301,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -469,13 +463,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
-      <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="JUnit.HuaweiTest.nonrepeatingIntegersTest" />
       <item itemvalue="JUnit.HuaweiTest.findSeven" />
       <item itemvalue="JUnit.HuaweiTest.addTest" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.HuaweiTest.primeFactorsTest" />
+      <item itemvalue="Spring Boot.DemoApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -553,7 +547,8 @@
       <workItem from="1577169717915" duration="7609000" />
       <workItem from="1577324574872" duration="17667000" />
       <workItem from="1578022271041" duration="25002000" />
-      <workItem from="1578280151631" duration="36616000" />
+      <workItem from="1578280151631" duration="40112000" />
+      <workItem from="1578550985947" duration="12941000" />
     </task>
     <task id="LOCAL-00001" summary="update1.0">
       <created>1539571756854</created>
@@ -660,13 +655,17 @@
       <option name="project" value="LOCAL" />
       <updated>1578304139932</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="新增">
+      <created>1578539473224</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578539473224</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HuaweiTest_addTest - 2020.01.07 at 14h 39m 51s.xml">
-      <configuration name="HuaweiTest.addTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HuaweiTest_addTest - 2020.01.07 at 14h 40m 21s.xml">
       <configuration name="HuaweiTest.addTest" configurationId="JUnit" />
     </history-entry>
@@ -694,14 +693,19 @@
     <history-entry file="HuaweiTest_primeFactorsTest - 2020.01.07 at 16h 42m 41s.xml">
       <configuration name="HuaweiTest.primeFactorsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HuaweiTest_primeFactorsTest - 2020.01.09 at 14h 45m 12s.xml">
+      <configuration name="HuaweiTest.primeFactorsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354789000" />
+    <option name="totallyTimeSpent" value="371226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5045045" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26013514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -711,10 +715,11 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="8" />
       <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" visible="true" weight="0.5295454" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4409091" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.5295454" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4409091" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -730,6 +735,7 @@
       <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.3284091" />
       <window_info anchor="bottom" id="CheckStyle" order="17" />
       <window_info anchor="bottom" id="JRebel Executor" order="18" />
+      <window_info anchor="right" id="JRebel Setup Guide" weight="0.32995495" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24958402" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -994,19 +1000,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java</url>
-          <line>22</line>
+          <line>33</line>
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java</url>
-          <line>32</line>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java</url>
-          <line>24</line>
+          <line>35</line>
           <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
@@ -1073,20 +1079,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/first/Demo83.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/first/Demo81.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/practice/first/Demo85.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -1398,10 +1390,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Main.java">
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/huawei/HuaweiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="1508">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1410,7 +1402,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/ExpressionEvaluation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="1846">
           <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1418,10 +1410,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/CalculateTheNumberOfCharacters.java">
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="364">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1430,7 +1422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/Approximation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="260">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
@@ -1444,42 +1436,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/HexadecimalToDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="260">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/MergeTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
+        <state relative-caret-position="572">
           <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/NonrepeatingIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        <state relative-caret-position="546">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/huawei/HuaweiTest.java">
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/CalculateTheNumberOfCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        <state relative-caret-position="468">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar!/com/google/common/collect/ImmutableList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+          <folding>
+            <element signature="e#6313#6314#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/PrimeFactors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="255">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
