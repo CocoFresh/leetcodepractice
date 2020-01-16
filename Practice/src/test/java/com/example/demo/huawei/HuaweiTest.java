@@ -89,4 +89,10 @@ public class HuaweiTest {
         Add a = new Add();
         System.out.println(a.add("-9876543210", "-1234567890"));
     }
+
+    @Test
+    public void stringMultiplyTest() {
+        StringMultiply s = new StringMultiply();
+        System.out.println(s.multiply("888", "9999"));
+    }
 }
