@@ -95,4 +95,29 @@ public class HuaweiTest {
         StringMultiply s = new StringMultiply();
         System.out.println(s.multiply("888", "9999"));
     }
+
+    @Test
+    public void simpleKeyBoardTest() {
+        SimpleKeyBoard s = new SimpleKeyBoard();
+        System.out.println(s.calculateTime("pqrstuvwxyzabcdefghijklmno", "leetcode"));
+    }
+
+    @Test
+    public void lisp() {
+        Lisp l = new Lisp();
+        l.evaluate("(mult 3 (add 2 3))");
+    }
+
+    @Test
+    public void decodeString() {
+        DecodeString decodeString = new DecodeString();
+        System.out.println(decodeString.decodeString("100[leetcode]"
+        ));
+    }
+
+    @Test
+    public void longestValidParentheses(){
+        LongestValidParentheses l = new LongestValidParentheses();
+        l.longestValidParentheses(")()())");
+    }
 }
