@@ -1,6 +1,6 @@
-package com.example.demo.difficul.string;
+package com.example.demo.difficult;
 
-import com.example.demo.difficult.dynamic.Regular_expression_matching;
+import com.example.demo.difficult.Regular_expression_matching;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.example.demo.difficult.dynamic;
+package com.example.demo.difficult;
 
 /**
  * @Auther: xintao.feng

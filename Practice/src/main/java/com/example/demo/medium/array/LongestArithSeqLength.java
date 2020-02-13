@@ -8,19 +8,6 @@ package com.example.demo.medium.array;
 public class LongestArithSeqLength {
     public int longestArithSeqLength(int[] A) {
         int res = 0;
-        int stepLength = 1;
-        int start = 0;
-        int comDeff = 0;
-        while (start != A.length) {
-            comDeff = A[start + stepLength] - A[start];
-
-            if (stepLength < A.length) {
-                stepLength++;
-            } else {
-                start++;
-            }
-
-        }
 
         return res;
     }
