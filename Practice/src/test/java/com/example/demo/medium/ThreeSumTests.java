@@ -1,4 +1,4 @@
-package com.example.demo.medium.array;
+package com.example.demo.medium;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
