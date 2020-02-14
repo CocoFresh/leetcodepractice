@@ -20,4 +20,16 @@ public class DifficultTest {
         l.largestRectangleArea(heights);
 //        l.largestRectangleArea2(heights);
     }
+
+    @Test
+    public void maximalRectangleTest(){
+        MaximalRectangle m = new MaximalRectangle();
+        char[][] matrix = {
+                {'1','0','1','0','0'},
+                {'1','0','1','1','1'},
+                {'1','1','1','1','1'},
+                {'1','0','0','1','0'}
+        };
+        m.maximalRectangle2(matrix);
+    }
 }
