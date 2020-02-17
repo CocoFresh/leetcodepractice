@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bf2f029-2b64-40b7-9132-be45ac8c289d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/IsScramble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/Partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/MediumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/Merge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/LongestArithSeqLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/LongestArithSeqLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/array/ThreeSumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/ThreeSumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Practice/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,82 +37,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/LargestRectangleArea.java">
+        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/MaximalRectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/Partition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="80" column="23" lean-forward="true" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/IsScramble.java">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/Merge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1307">
-              <caret line="49" column="96" selection-start-line="49" selection-start-column="96" selection-end-line="49" selection-end-column="96" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/MediumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/difficult/DifficultTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/LongestArithSeqLength.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="201">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -146,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/PathSum.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/BuildBinaryTree.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/DataStucture/Tree/BuildBinaryTree2.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
@@ -186,7 +121,6 @@
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/DecodeString.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/huawei/HuaweiTest.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/FractionalReduction.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/array/LongestArithSeqLength.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/Regular_expression_matching.java" />
@@ -197,6 +131,8 @@
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/Partition.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/MediumTest.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/IsScramble.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/Merge.java" />
       </list>
     </option>
   </component>
@@ -228,7 +164,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -288,33 +224,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="difficult" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -352,7 +261,8 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MediumTest.partitionTest">
+  <component name="RunManager" selected="JUnit.ArrayTest.mergeTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -416,6 +326,23 @@
       <option name="PACKAGE_NAME" value="com.example.demo.easy.array" />
       <option name="MAIN_CLASS_NAME" value="com.example.demo.easy.array.ArrayTest" />
       <option name="METHOD_NAME" value="fraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.mergeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.easy.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.easy.array" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.easy.array.ArrayTest" />
+      <option name="METHOD_NAME" value="mergeTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -473,23 +400,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuaweiTest.longestValidParentheses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo.huawei" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.huawei.HuaweiTest" />
-      <option name="METHOD_NAME" value="longestValidParentheses" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MediumTest.partitionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
@@ -539,20 +449,20 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.HuaweiTest.longestValidParentheses" />
       <item itemvalue="JUnit.ArrayTest.fraction" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="JUnit.DifficultTest.largestRectangleAreaTest" />
       <item itemvalue="JUnit.DifficultTest.maximalRectangleTest" />
       <item itemvalue="JUnit.MediumTest.partitionTest" />
+      <item itemvalue="JUnit.ArrayTest.mergeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayTest.mergeTest" />
         <item itemvalue="JUnit.MediumTest.partitionTest" />
         <item itemvalue="JUnit.DifficultTest.maximalRectangleTest" />
         <item itemvalue="JUnit.DifficultTest.largestRectangleAreaTest" />
         <item itemvalue="JUnit.ArrayTest.fraction" />
-        <item itemvalue="JUnit.HuaweiTest.longestValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -626,7 +536,7 @@
       <workItem from="1578550985947" duration="13731000" />
       <workItem from="1579141880038" duration="37001000" />
       <workItem from="1581473301019" duration="10771000" />
-      <workItem from="1581562406768" duration="27554000" />
+      <workItem from="1581562406768" duration="31118000" />
     </task>
     <task id="LOCAL-00001" summary="update1.0">
       <created>1539571756854</created>
@@ -775,31 +685,17 @@
       <option name="project" value="LOCAL" />
       <updated>1581643528333</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="新增">
+      <created>1581668024532</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1581668024532</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MediumTest_partitionTest - 2020.02.14 at 10h 58m 19s.xml">
-      <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MediumTest_partitionTest - 2020.02.14 at 10h 59m 29s.xml">
-      <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MediumTest_partitionTest - 2020.02.14 at 10h 59m 33s.xml">
-      <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MediumTest_partitionTest - 2020.02.14 at 11h 00m 04s.xml">
-      <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MediumTest_partitionTest - 2020.02.14 at 11h 00m 39s.xml">
-      <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MediumTest_partitionTest - 2020.02.14 at 11h 00m 54s.xml">
-      <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MediumTest_partitionTest - 2020.02.14 at 11h 09m 47s.xml">
-      <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MediumTest_partitionTest - 2020.02.14 at 11h 10m 11s.xml">
       <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
     </history-entry>
@@ -809,15 +705,36 @@
     <history-entry file="MediumTest_partitionTest - 2020.02.14 at 11h 11m 28s.xml">
       <configuration name="MediumTest.partitionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayTest_mergeTest - 2020.02.14 at 16h 35m 30s.xml">
+      <configuration name="ArrayTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTest - 2020.02.14 at 16h 36m 06s.xml">
+      <configuration name="ArrayTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTest - 2020.02.14 at 16h 36m 47s.xml">
+      <configuration name="ArrayTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTest - 2020.02.14 at 16h 43m 43s.xml">
+      <configuration name="ArrayTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTest - 2020.02.14 at 16h 46m 31s.xml">
+      <configuration name="ArrayTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTest - 2020.02.14 at 16h 49m 40s.xml">
+      <configuration name="ArrayTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayTest_mergeTest - 2020.02.14 at 16h 50m 39s.xml">
+      <configuration name="ArrayTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="447342000" />
+    <option name="totallyTimeSpent" value="450906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4572072" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.067567565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -831,7 +748,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.525" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.525" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.52272725" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -844,7 +761,7 @@
       <window_info anchor="bottom" id="Messages" order="13" weight="0.328125" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.3284091" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.73883927" />
       <window_info anchor="bottom" id="CheckStyle" order="17" />
       <window_info anchor="bottom" id="JRebel Executor" order="18" />
       <window_info anchor="bottom" id="Java Enterprise" order="19" />
@@ -1303,6 +1220,24 @@
           <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/Merge.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/Merge.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/Regular_expression_matching.java</url>
           <line>9</line>
@@ -1324,13 +1259,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/GuessNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/FiguresForTheEvenNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1620,16 +1548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/huawei/CalculateTheNumberOfCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -1706,16 +1624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/MediumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/medium/Partition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
@@ -1723,13 +1631,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/IsScramble.java">
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/medium/MediumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1307">
-          <caret line="49" column="96" selection-start-line="49" selection-start-column="96" selection-end-line="49" selection-end-column="96" />
+        <state relative-caret-position="583">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/difficult/IsScramble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/com/example/demo/easy/array/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/java/com/example/demo/easy/array/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
